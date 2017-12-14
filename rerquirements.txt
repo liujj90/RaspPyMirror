@@ -1,0 +1,21 @@
+# install libraries
+pip3:
+matplotlib
+pandas
+seaborn
+numpy
+grpcio (grpc)
+Pillow (PIL)
+google-auth
+google-cloud
+google-cloud-speech
+feedparser
+pyaudio (may need to install portaudio: https://stackoverflow.com/questions/33513522/when-installing-pyaudio-pip-cannot-find-portaudio-h-in-usr-local-include)
+
+apt-get
+pyaudio
+python3-tk , python-tk (Tkinter)
+
+
+
+install font: Proxy 1
